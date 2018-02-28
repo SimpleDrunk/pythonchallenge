@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ce55dd6-17cb-429f-a983-c504f19d0a65" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/9.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cave.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/evil1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/evil2.gfx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/evil2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/evil3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result4.jpg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,12 +34,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8/8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9/9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7/7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,6 +144,21 @@
             <path>
               <item name="pythonchallenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonchallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonchallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonchallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonchallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonchallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonchallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonchallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,8 +450,36 @@
     <entry file="file://$PROJECT_DIR$/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8/8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9/9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7/7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
