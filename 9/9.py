@@ -22,3 +22,4 @@ try:
 except urllib2.HTTPError as http_error:
     print zlib.decompress(http_error.read(), 30)
 
+#only replace the coord data to the stage 8's page source
