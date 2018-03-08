@@ -1,3 +1,5 @@
+# http://www.pythonchallenge.com/pc/return/evil.html
+
 f = open("evil2.gfx", 'rb')
 
 content = f.read()
